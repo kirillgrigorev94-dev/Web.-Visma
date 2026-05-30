@@ -893,7 +893,6 @@ img {
 
 #section-footer {
   width: 100%;
-  background-color: #3d348b;
 }
 
 .site-footer {
@@ -970,7 +969,7 @@ img {
   letter-spacing: 0.5px;
 }
 
-.footer-col p {
+.footer-col li {
   color: #ffffff;
   font-size: 14px;
   line-height: 2.2;
