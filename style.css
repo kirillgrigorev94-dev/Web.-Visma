@@ -777,7 +777,7 @@ img {
 
 .news-link-text {
   color: #3d348b;
-  font-size: 14px;
+  font-size: 16px;
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -845,7 +845,7 @@ img {
 }
 
 .news-card-title {
-  font-size: 18px;
+  font-size: 16px;
   font-weight: 700;
   color: #333333;
   margin: 0;
@@ -853,7 +853,7 @@ img {
 }
 
 .news-card-desc {
-  font-size: 14px;
+  font-size: 12px;
   color: #333333;
   margin: 0;
   line-height: 1.5;
